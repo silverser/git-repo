@@ -1,3 +1,3 @@
-print("Hello world!");
-print("Hu do you do!");
-print("Hello");
+print("Hello world;");
+print("Hu do you do;");
+print("Hello;");
