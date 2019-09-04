@@ -1,3 +1,5 @@
 print("Hello world;");
 print("Hu do you do;");
 print("Hello;");
+print("Hello my dear frend;");
+print("Glat ty seu;");
